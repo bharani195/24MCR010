@@ -13,3 +13,5 @@ Native: 	Erode
 College:	Kongu Engineering College
 
 Laptop:		Victus 16
+
+Windows: 	11
