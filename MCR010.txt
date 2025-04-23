@@ -11,3 +11,5 @@ GitHub:		bharani195
 Native: 	Erode
 
 College:	Kongu Engineering College
+
+Laptop:		Victus 16
